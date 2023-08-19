@@ -1,5 +1,5 @@
 # Subsequencia-Comum-Maxima
-Dadas duas sequências, encontrar qual a maior subsequência comum entre elas. 
+Dadas duas sequências de strings, encontrar qual a maior subsequência comum entre elas. 
 
 O problema da subsequência comum máxima consiste em encontrar a maior sequencia de caracteres entre duas strings, mas para simplificação, nesse código busquei apenas encontrar o comprimento de tal subsequencia máxima. 
 Nesse código apliquei o conceito da programação Dinâmica para alcançar a solução de forma mais eficiente.
